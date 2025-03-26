@@ -5,7 +5,7 @@ I am a newbie at website development. Currently learning Go and preparing to lea
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [jake26032004@gmail.com](mailto:jake26032004@gmail.com)
-* 🧠  I'm learning GoLang
+* 🧠  I'm learning NodeJS + express as backend, and reactjs + js/ts as frontend
 * ⚡  I hope i can design spectacular website in the nearest future. The language below, most of them i can use only at a basic level
 
 ### Skills
